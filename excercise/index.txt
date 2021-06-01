@@ -1,0 +1,9 @@
+/*
+    1. Create account here - https://openweathermap.org
+    2. Find your API key
+    3. Read the documentation for the API 
+    4. In the html file create one input field and one button
+    5. In the input field you should enter the city for which you will gather the weather information
+    6. On click on the button, make API call and get the weather information for the city that is entered into the input field
+    7. Show the weather information into separate html element.
+*/
